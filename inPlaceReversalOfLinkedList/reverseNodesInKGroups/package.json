@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "reversenodesinkgroups",
+  "version": "1.0.0",
+  "description": "reverse a linked list within groups of a certain input size given if the next group is the smaller than the size given don't reverse it simply return",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "reverseNodesInKGroups"
+  },
+  "keywords": [
+    "reverse",
+    "linkedlist"
+  ],
+  "author": "Burke Strang",
+  "license": "UNLICENSED"
+}

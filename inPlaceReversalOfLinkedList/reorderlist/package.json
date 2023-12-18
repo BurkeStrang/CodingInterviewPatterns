@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "reorderlist",
+  "version": "1.0.0",
+  "description": "reroder list as if it was folded on top of itself",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "reoderlist"
+  },
+  "keywords": [
+    "reverse",
+    "linkedlist"
+  ],
+  "author": "Burke Strang",
+  "license": "UNLICENSED"
+}
+
