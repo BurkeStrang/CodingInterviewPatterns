@@ -10,7 +10,7 @@ let gasStationJourney = function(gas, cost){
     let startingIndex = 0
 
     for (let i = 0; i < gas.length ; i++){  
-        currentGas = currentGas + (gas[i] - cost[i])
+        currentGas = currentGas + gas[i] - cost[i]
         if (currentGas < 0){
             currentGas = 0
             startingIndex = i + 1
